@@ -1,26 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-TODO LIST:
- -
-    
-FINISHED:
--draw snake completely
--snake will die if collide with wall 
--randomize the appearance of apple
--snake collide with apple and apple disappear
--count the collision  
--SNAKE GROW WHEN CONSUMING APPLE  
--snake die when eat itself
 
-
-    
-BUG
--
-
-
-SOLVED BUG:
--
-"""
 
 import pygame
 import random
